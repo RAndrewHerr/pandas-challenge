@@ -3,10 +3,10 @@
 ## PyCity Schools
 In this assignment, I created and manipulated Pandas DataFrames to analyze school and standardized test data.
 
-#Background
+## Background
 I am the new Chief Data Scientist for your city's school district. In this capacity, I'm helping the school board and mayor make strategic decisions regarding future school budgets and priorities. The first task is to analyze the district-wide standardized test results. I was given access to every student's math and reading scores, as well as various information on the schools they attend, to aggregate the data as outlined below and showcase obvious trends in school performance.
 
-#District Summary
+## District Summary
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 
 Include the following:
@@ -19,7 +19,7 @@ Include the following:
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
-#School Summary
+## School Summary
 Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
 
 Include the following:
@@ -34,27 +34,27 @@ Include the following:
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
-#Highest-Performing Schools (by % Overall Passing)
+## Highest-Performing Schools (by % Overall Passing)
 Sort the schools by % Overall Passing in descending order and display the top 5 rows.
 
-#Lowest-Performing Schools (by % Overall Passing)
+## Lowest-Performing Schools (by % Overall Passing)
 Sort the schools by % Overall Passing in ascending order and display the top 5 rows.
 
-#Math Scores by Grade
+## Math Scores by Grade
 Perform the necessary calculations to create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-#Reading Scores by Grade
+## Reading Scores by Grade
 Create a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-#Scores by School Spending
+## Scores by School Spending
 Create a table that breaks down school performance based on average spending ranges (per student).
 
-#Scores by School Size
+## Scores by School Size
 Create a table that breaks down school performance based on school size.
 
-#Scores by School Type
+## Scores by School Type
 Create a table that breaks down school performance based on school type (public or charter).
 
-#Written Report
+## Written Report
 * Summarize the analysis
 * Draws two correct conclusions or comparisons from the calculations
